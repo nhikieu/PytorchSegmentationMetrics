@@ -13,11 +13,11 @@ Pytorch implementation of 3 popular evaluation metrics (OA, AA, and kappa coeffi
 
 ![image](https://user-images.githubusercontent.com/62233450/191171666-c4cb7edc-ae5a-497b-b6d1-0ea654c6c5e7.png)
 
-where 
-N_c: the number of samples classifed correctly
-N_a: the number of total samples
-N^i_c, N^i_a: N_c and N_a for each class
-N^i_r, N^i_p: the number of real samples for each class and the number of predicted samples for each class, respectively
+<p>where</p>
+<p>N_c: the number of samples classifed correctly</p>
+<p>N_a: the number of total samples</p>
+<p>N^i_c, N^i_a: N_c and N_a for each class</p>
+<p>N^i_r, N^i_p: the number of real samples for each class and the number of predicted samples for each class, respectively</p>
 
 Equations are originally from
 https://arxiv.org/abs/2008.05457
