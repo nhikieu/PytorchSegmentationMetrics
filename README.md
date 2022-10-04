@@ -21,3 +21,6 @@ Pytorch implementation of 3 popular evaluation metrics (OA, AA, and kappa coeffi
 
 Equations are originally from
 https://arxiv.org/abs/2008.05457
+
+## Interpretation of Kappa Coefficient
+Cohen suggested the Kappa result be interpreted as follows: values ≤ 0 as indicating no agreement and 0.01–0.20 as none to slight, 0.21–0.40 as fair, 0.41– 0.60 as moderate, 0.61–0.80 as substantial, and 0.81–1.00 as almost perfect agreement [Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900052/)
